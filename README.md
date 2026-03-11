@@ -1,6 +1,6 @@
 # The Influence of Urban Environmental and Socioeconomic Variables on Childhood Obesity Prevalence: A Case Study of London
 
-## Summary
+## Abstract
 
 This project investigates which urban environmental and socioeconomic factors drive childhood obesity prevalence across London wards.
 
@@ -26,6 +26,6 @@ Childhood obesity in London is primarily driven by socioeconomic conditions rath
 
 ---
 
-- Code: [GitHub](https://github.com/JialeiGuo1108/Childhood_Obesity)
+- Code: [childhood_obesity.ipynb](https://github.com/JialeiGuo1108/Childhood_Obesity/blob/main/childhood_obesity.ipynb)
 - Data: [data/](https://github.com/JialeiGuo1108/Childhood_Obesity/tree/main/data)
 - License: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
